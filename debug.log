@@ -1,2 +1,3 @@
 [0928/221931.521:ERROR:registration_protocol_win.cc(106)] CreateFile: The system cannot find the file specified. (0x2)
 [0928/221934.022:ERROR:registration_protocol_win.cc(106)] CreateFile: The system cannot find the file specified. (0x2)
+[0928/223501.254:ERROR:registration_protocol_win.cc(106)] CreateFile: The system cannot find the file specified. (0x2)
