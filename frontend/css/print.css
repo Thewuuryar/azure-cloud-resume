@@ -1,0 +1,216 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0.5in 0.7in 0.7in 0.5in; 
+    padding: 0; 
+    font: 12px Arial, "Lato", sans-serif; 
+    color: #000;
+    /* overflow-anchor: none;
+    min-height: 100%;
+    background: var(--bg-bg-color);
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color:var(--default-text-color);
+    font-size: 14px;
+    line-height: 26px;
+    padding: 50px 10px 50px; */
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+    /* min-width: 700px;
+    max-width: 900px;
+    background-color: var(--bg-page-color);
+    margin: 0px auto 0px;
+    box-shadow: 1px 1px 2px var(--bg-shadow-color);
+    border-radius: 3px;
+    padding: 40px; */
+} 
+
+/* .separator {
+    height: 10px;
+    display: inline-block;
+    border-left: 2px solid var(--separator-color);
+    margin: 0px 10px;
+} */
+
+/* .label {
+    color: var(--faded-text-color);
+    font-weight: 300;
+} */
+
+.header {
+    margin-bottom: 0;
+    /* margin-bottom: 20px; */
+}
+
+.header .full-name {
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+.badge {
+    display: none;
+    /* width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    padding: 2px;
+    background-color: var(--badge-color);
+    border-radius: 20px;
+    -webkit-transition: ease-out .4s;
+    -moz-transition: ease-out .4s;
+    transition: ease-out .4s; */
+}
+
+/* .badge:hover{
+    background-color: var(--highlight-color);
+}
+
+.emph {
+    font-weight: bold;
+    text-transform: uppercase;
+} */
+
+.navigation {
+    display: none;
+    /* margin-top: 20px;
+    text-align: center;
+    pointer-events: none; */
+}
+
+/* .navigation > *.nav-link {
+    pointer-events: auto;
+}
+
+.nav-link {
+    color: var(--default-text-color);
+    text-decoration: none;
+    -webkit-transition: ease-out .4s;
+    -moz-transition: ease-out .4s;
+    transition: ease-out .4s;
+}
+
+.navigation:hover > *,
+.navigation:focus-within > * {
+    color: var(--faded-text-color);;
+}
+
+.navigation:hover > *:hover,
+.navigation:focus-within > *:focus {
+    color: var(--highlight-color);
+}
+
+#summary,  #experience, #projects, #education, #skills {
+    margin-bottom: 30px;
+}
+
+.section{
+    margin-bottom: 20px;
+}
+
+.section .section_title {
+    letter-spacing: 2px;
+    font-size: 20px;
+    text-align: center;
+    background-color: var(--section-header-color);
+    font-variant: small-caps;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.section .section_text {
+    margin-bottom: 5px;
+}
+
+.section .section_list {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.section .section_list .section_list_title {
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.section .section_list .section_list_item {
+    margin-right: 40px;
+    margin-bottom: 5px;
+    text-indent: -20px;
+    padding-left: 30px;
+}
+
+.section .section_list .section_list_item::before {
+    content: '>';
+    font-weight: 900;
+    color: var(--highlight-color);
+    margin-right: 10px;
+}
+
+.section .section_item {
+    margin-bottom: 20px;
+}
+
+.section .section_item:last-of-type {
+    margin-bottom: 5px;
+}
+
+.section .left,
+.section .right {
+    vertical-align: top;
+    display: inline-block;
+}
+
+.section .left {
+    text-align: left;
+    width: 50%;
+}
+
+.section .right {
+    text-align: right;
+    width: 49%;
+}
+
+.section .section_item .title, 
+.section .section_item .degree {
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.section .section_item .location {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.section .section_item .duration, 
+.section .section_item .address,
+.section .section_item .major {
+    color: var(--light-text-color);
+    font-weight: 300;
+}
+
+.section .description {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.footer {
+    border-top: 1px solid var(--separator-color);;
+    text-align: center;
+    color: var(--faded-text-color);;
+    font-weight: 300;
+}
+
+.columnar {
+    column-width: 250px;
+    column-gap: 30px;
+}*/
